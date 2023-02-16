@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Alex",
+    "email": "alex@gmail.com",
+    "phone": "343-343-4344"
+  },
+  {
+    "id": "2",
+    "name": "Anna",
+    "email": "anna@gmail.com",
+    "phone": "763-343-4034"
+  },
+  {
+    "id": "3",
+    "name": "Katarina",
+    "email": "katarina@gmail.com",
+    "phone": "543-223-4846"
+  },
+  {
+    "id": "4",
+    "name": "Joster",
+    "email": "joster@gmail.com",
+    "phone": "390-121-4374"
+  },
+  {
+    "id": "5",
+    "name": "Bob",
+    "email": "bob@gmail.com",
+    "phone": "894-275-0944"
+  },
+  {
+    "id": "6",
+    "name": "Stalone",
+    "email": "stalone@gmail.com",
+    "phone": "388-377-4994"
+  }
+]
